@@ -103,5 +103,3 @@ For any questions or issues, please open an issue on the [GitHub repository](htt
 ---
 
 Thank you for using `netflix-loading-indicator`! We hope it adds a stylish touch to your React projects.
-```
-
