@@ -98,11 +98,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or issues, please open an issue on the [GitHub repository](https://github.com/aaditya7788/netflix-loading-indicator) or contact me at [aadityasahani78.com](mailto:aadityasahani78.com).
+For any questions or issues, please open an issue on the [GitHub repository](https://github.com/aaditya7788/netflix-loading-indicator) or contact me at [aadityasahani78@gmail.com](mailto:aadityasahani78@gmail.com).
 
 ---
 
 Thank you for using `netflix-loading-indicator`! We hope it adds a stylish touch to your React projects.
 ```
 
-Feel free to replace `[your-email@example.com](mailto:your-email@example.com)` with your actual contact email or remove it if you prefer not to include it. If you have any other specific details or sections to add, let me know!
